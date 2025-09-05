@@ -1,11 +1,11 @@
 {
-    "fly": "https://raw.githubusercontent.com/thequomy/aplus/main/fly.lua",
-    "esp": "https://raw.githubusercontent.com/thequomy/aplus/main/esp.lua",
-    "fling": "https://raw.githubusercontent.com/thequomy/aplus/main/fling.lua",
-    "reanim": "https://raw.githubusercontent.com/thequomy/aplus/main/reanim.lua",
-    "leak": "https://raw.githubusercontent.com/thequomy/aplus/main/leak.lua",
-    "twerk": "https://raw.githubusercontent.com/thequomy/aplus/main/twerk.lua",
-    "ugc": "https://raw.githubusercontent.com/thequomy/aplus/main/ugc.lua",
-    "car": "https://raw.githubusercontent.com/thequomy/aplus/main/car.lua",
-    "bhop": "https://raw.githubusercontent.com/thequomy/aplus/main/bhop.lua"
+    "fly": "https://github.com/thequomy/aplus/raw/main/fly.lua",
+    "esp": "https://github.com/thequomy/aplus/raw/main/esp.lua",
+    "fling": "https://github.com/thequomy/aplus/raw/main/fling.lua",
+    "reanim": "https://github.com/thequomy/aplus/raw/main/reanim.lua",
+    "leak": "https://github.com/thequomy/aplus/raw/main/leak.lua",
+    "twerk": "https://github.com/thequomy/aplus/raw/main/twerk.lua",
+    "ugc": "https://github.com/thequomy/aplus/raw/main/ugc.lua",
+    "car": "https://github.com/thequomy/aplus/raw/main/car.lua",
+    "bhop": "https://github.com/thequomy/aplus/raw/main/bhop.lua"
 }
