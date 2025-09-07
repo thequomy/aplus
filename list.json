@@ -7,5 +7,6 @@
     "twerk": "https://github.com/thequomy/aplus/raw/main/twerk.lua",
     "ugc": "https://github.com/thequomy/aplus/raw/main/ugc.lua",
     "car": "https://github.com/thequomy/aplus/raw/main/car.lua",
-    "bhop": "https://github.com/thequomy/aplus/raw/main/bhop.lua"
+    "bhop": "https://github.com/thequomy/aplus/raw/main/bhop.lua",
+    "players": "https://github.com/thequomy/aplus/raw/main/players.lua"
 }
