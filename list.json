@@ -1,12 +1,34 @@
 {
-    "fly": "https://github.com/thequomy/aplus/raw/main/fly.lua",
-    "esp": "https://github.com/thequomy/aplus/raw/main/esp.lua",
-    "fling": "https://github.com/thequomy/aplus/raw/main/fling.lua",
-    "reanim": "https://github.com/thequomy/aplus/raw/main/reanim.lua",
-    "leak": "https://github.com/thequomy/aplus/raw/main/leak.lua",
-    "twerk": "https://github.com/thequomy/aplus/raw/main/twerk.lua",
-    "ugc": "https://github.com/thequomy/aplus/raw/main/ugc.lua",
-    "car": "https://github.com/thequomy/aplus/raw/main/car.lua",
-    "bhop": "https://github.com/thequomy/aplus/raw/main/bhop.lua",
-    "players": "https://github.com/thequomy/aplus/raw/main/players.lua"
+    "fly": {
+        "url": "https://raw.githubusercontent.com/thequomy/aio/main/fly.lua",
+        "description": "Режим полёта"
+    },
+    "esp": {
+        "url": "https://raw.githubusercontent.com/thequomy/aio/main/esp.lua",
+        "description": "Подсветка игроков"
+    },
+    "fling": {
+        "url": "https://raw.githubusercontent.com/thequomy/aio/main/fling.lua",
+        "description": "Отбрасывание игроков"
+    },
+    "reanim": {
+        "url": "https://raw.githubusercontent.com/thequomy/aio/main/reanim.lua",
+        "description": "Реанимация"
+    },
+    "twerk": {
+        "url": "https://raw.githubusercontent.com/thequomy/aio/main/twerk.lua",
+        "description": "Анимация твёрка"
+    },
+    "ugc": {
+        "url": "https://raw.githubusercontent.com/thequomy/aio/main/ugc.lua",
+        "description": "UGC Анимации"
+    },
+    "car": {
+        "url": "https://raw.githubusercontent.com/thequomy/aio/main/car.lua",
+        "description": "Анимации машин"
+    },
+    "bhop": {
+        "url": "https://github.com/thequomy/aplus/raw/main/bhop.lua",
+        "description": "Режим баннихопа"
+    }
 }
