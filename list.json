@@ -30,5 +30,13 @@
     "bhop": {
         "url": "https://github.com/thequomy/aplus/raw/main/bhop.lua",
         "description": "Режим баннихопа"
+    },
+    "players": {
+        "url": "https://github.com/thequomy/aplus/raw/main/bhop.lua",
+        "description": "Быстрое тп к игрокам"
+    },
+    "leak": {
+        "url": "https://github.com/thequomy/aplus/raw/main/bhop.lua",
+        "description": "Проверка игроков"
     }
 }
