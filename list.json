@@ -1,30 +1,30 @@
 {
     "fly": {
-        "url": "https://raw.githubusercontent.com/thequomy/aio/main/fly.lua",
+        "url": "https://github.com/thequomy/aplus/raw/main/fly.lua",
         "description": "Режим полёта"
     },
     "esp": {
-        "url": "https://raw.githubusercontent.com/thequomy/aio/main/esp.lua",
+        "url": "https://github.com/thequomy/aplus/raw/main/esp.lua",
         "description": "Подсветка игроков"
     },
     "fling": {
-        "url": "https://raw.githubusercontent.com/thequomy/aio/main/fling.lua",
+        "url": "https://github.com/thequomy/aplus/raw/main/fling.lua",
         "description": "Отбрасывание игроков"
     },
     "reanim": {
-        "url": "https://raw.githubusercontent.com/thequomy/aio/main/reanim.lua",
+        "url": "https://github.com/thequomy/aplus/raw/main/reanim.lua",
         "description": "Реанимация"
     },
     "twerk": {
-        "url": "https://raw.githubusercontent.com/thequomy/aio/main/twerk.lua",
+        "url": "https://github.com/thequomy/aplus/raw/main/twerk.lua",
         "description": "Анимация твёрка"
     },
     "ugc": {
-        "url": "https://raw.githubusercontent.com/thequomy/aio/main/ugc.lua",
+        "url": "https://github.com/thequomy/aplus/raw/main/ugc.lua",
         "description": "UGC Анимации"
     },
     "car": {
-        "url": "https://raw.githubusercontent.com/thequomy/aio/main/car.lua",
+        "url": "https://github.com/thequomy/aplus/raw/main/car.lua",
         "description": "Анимации машин"
     },
     "bhop": {
