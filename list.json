@@ -32,11 +32,11 @@
         "description": "Режим баннихопа"
     },
     "players": {
-        "url": "https://github.com/thequomy/aplus/raw/main/bhop.lua",
+        "url": "https://github.com/thequomy/aplus/raw/main/players.lua",
         "description": "Быстрое тп к игрокам"
     },
     "leak": {
-        "url": "https://github.com/thequomy/aplus/raw/main/bhop.lua",
+        "url": "https://github.com/thequomy/aplus/raw/main/leak.lua",
         "description": "Проверка игроков"
     }
 }
